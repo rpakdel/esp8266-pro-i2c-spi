@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="esp8266-pro-i2c.ino" />
+    <None Include="esp8266-pro-i2c-spi.ino" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="__vm\.esp8266-pro-i2c.vsarduino.h">
@@ -25,6 +25,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="esp8266-pro-pins.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="__vm\.esp8266-pro-i2c-spi.vsarduino.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
