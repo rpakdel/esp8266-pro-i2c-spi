@@ -23,4 +23,5 @@
 5. RF CSN -> GPIO15 (and to GND via 4.7k resistor) 
 
 Use https://github.com/rpakdel/arduino-nrf24-basic/tree/master/sender for sender
-Note: Uploading to ESP8266 at higher rates than 115200 doesn't work anymore for me with the NRF24L01 connected.
+
+**Note:** Uploading to ESP8266 at higher rates than 115200 doesn't work anymore for me with the NRF24L01 connected.
