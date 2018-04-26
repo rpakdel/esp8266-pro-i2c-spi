@@ -27,3 +27,7 @@
 Use https://github.com/rpakdel/arduino-nrf24-basic/tree/master/sender for sender
 
 **Note:** Uploading to ESP8266 at higher rates than 115200 doesn't work anymore for me with the NRF24L01 connected.
+
+Upload Settings
+
+![Imgur](https://i.imgur.com/Ww5Xj4tl.png)
