@@ -2,6 +2,8 @@
 
 ## Wiring
 
+![Imgur](https://i.imgur.com/rkjEQtmm.jpg)
+
 **ESP8266**
 
 1. GPIO15 -> GND with 4.7k resistor (10k might be fine too)
